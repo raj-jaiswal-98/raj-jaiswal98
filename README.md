@@ -8,16 +8,11 @@
 
 - 📫 How to reach me **rajwashere98@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1s9RF-3pi9ZUEppaP8shebwyFE4KLmq5H/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raj-jaiswal-aman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-jaiswal-aman" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajjais3003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajjais3003" height="30" width="40" /></a>
 <a href="https://medium.com/@rajjais98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rajjais98" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/r_aj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="r_aj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rewq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rewq" height="30" width="40" /></a>
-<a href="https://discord.gg/777165622650994700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="777165622650994700" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
